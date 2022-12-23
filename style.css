@@ -329,14 +329,14 @@ h2{
        border-radius: 50%;
     }
     .Text1{
-        margin-left: 6px;
+        margin-left: 15px;
         background: white;
         margin-top: -30px;
     }
 
     .h1{
         font-size: 30px;
-        margin-left: 10px;
+        margin-left: 12px;
     }
     .orange{
         margin-left: 30px;
@@ -366,28 +366,31 @@ h2{
     }
 
     .card1{
-        width:270px;
+        width:320px;
         height: 510px;
         margin-left: 8px;
+         max-width:320px;
     }
 
     #imgc{
-        width:270px;
+        width:320px;
         margin-left: 8px;
     }
 
     .card2{
-        width: 270px;
+        width: 320px;
         margin-left: 8px;
         height: 600px;
+         max-width:320px;
 
     }
 
     .card3{
-        width: 270px;
+        width: 320px;
         margin-left: 8px;
         height: 500px;
         padding-top: 100px;
+        max-width:320px;
       
     }
 
@@ -411,7 +414,7 @@ h2{
     }
 
     #img3{
-        width:270px;
+        width:320px;
         margin-left: 13px;
         float: left;
 
@@ -420,6 +423,7 @@ h2{
     .text3{
         margin-left: 5px;
         font-size: 13px;
+         max-width:320px;
     }
 
     .hhhh{
@@ -428,11 +432,11 @@ h2{
 
     .ppp{
         margin-left:5px ;
-        max-width: 270px;
+        max-width: 320px;
     }
 
     #footer{
-        width:300px;
+        width:330px;
         height: 50vh;
     }
 
