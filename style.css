@@ -282,7 +282,7 @@ h2{
         visibility: hidden;
         position: absolute;
         float: left;
-        margin-left: 130px;
+        margin-left: 170px;
         background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
         width:150px;
         height: 160px;
@@ -323,8 +323,8 @@ h2{
     }
 
     #img1{
-       width:220px;
-       height: 220px;
+       width:280px;
+       height: 280px;
        margin-left: 15px;
        border-radius: 50%;
     }
@@ -436,7 +436,7 @@ h2{
     }
 
     #footer{
-        width:330px;
+        width:350px;
         height: 50vh;
     }
 
